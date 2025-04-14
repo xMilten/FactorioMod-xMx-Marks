@@ -1,0 +1,1 @@
+data.raw.item["assembling-machine-1"].stack_size = 200

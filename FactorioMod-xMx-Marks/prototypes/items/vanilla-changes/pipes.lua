@@ -1,0 +1,5 @@
+data.raw.item["pipe"].subgroup = "pipe-distribution"
+data.raw.item["pipe-to-ground"].subgroup = "pipe-distribution"
+data.raw.item["pump"].subgroup = "pipe-distribution"
+data.raw.item["storage-tank"].subgroup = "pipe-distribution"
+data.raw.item["storage-tank"].order = "b[pipe]-d[storage-tank]"
