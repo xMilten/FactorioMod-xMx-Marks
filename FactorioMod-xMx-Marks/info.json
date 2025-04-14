@@ -1,0 +1,9 @@
+{
+  "name": "xmx-marks",
+  "version": "0.1.0",
+  "title": "xMx Marks",
+  "author": "xXMiltenXx",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod adds multiple versions (Mk 1, Mk 2, ...) for most of the craftable items."
+}

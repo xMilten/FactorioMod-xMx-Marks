@@ -1,0 +1,1 @@
+data.raw.recipe["beacon"].energy_required = 5

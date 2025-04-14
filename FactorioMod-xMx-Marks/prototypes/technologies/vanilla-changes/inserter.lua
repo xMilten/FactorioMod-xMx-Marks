@@ -1,0 +1,1 @@
+data.raw.technology["stack-inserter"].prerequisites = {"fast-inserter", "xmx-mk1-logistics", "advanced-electronics"}
