@@ -1,0 +1,1 @@
+data.raw["furnace"]["electric-furnace"].next_upgrade = "xmx-mk2-electric-furnace"

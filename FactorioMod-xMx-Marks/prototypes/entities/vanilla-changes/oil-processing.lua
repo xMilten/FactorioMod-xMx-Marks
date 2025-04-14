@@ -1,0 +1,5 @@
+data.raw["assembling-machine"]["oil-refinery"].next_upgrade = "xmx-mk2-oil-refinery"
+data.raw["assembling-machine"]["oil-refinery"].fast_replaceable_group = "oil-refinery"
+data.raw["assembling-machine"]["chemical-plant"].next_upgrade = "xmx-mk2-chemical-plant"
+data.raw["assembling-machine"]["chemical-plant"].fast_replaceable_group = "chemical-plant"
+data.raw["mining-drill"]["pumpjack"].next_upgrade = "xmx-mk2-pumpjack"

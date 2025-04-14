@@ -1,0 +1,1 @@
+data.raw["pump"]["pump"].next_upgrade = "xmx-mk2-pump"

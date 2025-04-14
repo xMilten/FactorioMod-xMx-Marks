@@ -1,0 +1,1 @@
+data.raw["mining-drill"]["electric-mining-drill"].next_upgrade = "xmx-mk2-electric-mining-drill"
